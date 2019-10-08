@@ -1,0 +1,15 @@
+{
+    "name": "DevFest Nantes 2018",
+    "short_name": "DFA",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Une super app pour le DevFest",
+    "icons": [
+        {
+            "src": "https://laeyeworks.com/images/favicon/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
